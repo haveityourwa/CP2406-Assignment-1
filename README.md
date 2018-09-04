@@ -2,7 +2,12 @@
 Anthony Elkins 2018
 
 # Smart Home Automation Simulator
-Description
+
+## Description
+
+IT@JCU is interested in developing a “Smart Home Automation Simulator” for demonstration during
+JCU Open Day and other related marketing events. The broad purpose of this simulator is to
+demonstrate what a home of the future could be like. Here is a floorplan for a modern home:
 
 ## Assessment Task 1 Specification and Planning
 ### 1. User Stories
